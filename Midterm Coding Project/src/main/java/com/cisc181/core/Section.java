@@ -24,7 +24,8 @@ public class Section {
 
 		this.SectionID = SectionID;
 
-		this.RoomID = RoomID;
+		this.RoomID = RoomID; 
+		
 
 	}
 

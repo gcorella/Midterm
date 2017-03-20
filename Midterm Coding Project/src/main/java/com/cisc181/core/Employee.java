@@ -12,6 +12,7 @@ public class Employee extends Person implements java.io.Serializable{
      * @since - 07/13/2014
      */
     public Employee() {
+    	
     }
 
     /**

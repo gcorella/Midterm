@@ -31,6 +31,7 @@ public class Semester {
 	public Date getEndDate() {
 
 		return EndDate;
+		
 	}
 	public void setEndDate(Date enDte) {
 		this.EndDate = enDte;

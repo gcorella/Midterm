@@ -32,6 +32,7 @@ public class Student extends Person {
 		this.Major = Major;
 	}
 
+	
 	@Override
 	public void PrintName() {
 

@@ -176,6 +176,8 @@ public class Student_Test {
 
 				/ COURSENUM >= 85) {
 
+			
+			
 			GPAAVG = 3.50;
 
 		} else if ((science.get(Student).getGrade() + bio.get(Student).getGrade() + phys1.get(Student).getGrade()

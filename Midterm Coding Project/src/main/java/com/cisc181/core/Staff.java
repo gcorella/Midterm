@@ -32,6 +32,7 @@ public class Staff extends Employee {
 		super(FirstName, MiddleName, LastName, DOB, Address, Phone_number, Email, officeHours, salary, hireDate);
 		this.Title = Title;
 
+		
 	}
 
 
